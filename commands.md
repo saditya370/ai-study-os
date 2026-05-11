@@ -2,7 +2,9 @@
 
 ## Start the Day
 
-Open `prompts/daily_start.md` and use it with your AI assistant.
+Run `./scripts/start-day.sh`, then open `prompts/daily_start.md` and use it with your AI assistant.
+
+If you want the AI to fully run the day, use `prompts/study_os_operator.md` instead.
 
 ## Daily Radar
 
@@ -18,7 +20,13 @@ Open `prompts/end_of_day.md` and paste your results.
 
 ## Weekly Review
 
-Open `prompts/weekly_review.md` at the end of the week.
+Run `./scripts/start-week.sh` at the start of a new week, then open `prompts/weekly_review.md` at the end of the week.
+
+If you want the AI to define the week for you, use `prompts/weekly_goal_planner.md`.
+
+## Progress Report
+
+Use `prompts/progress_report.md` when you want the AI to summarize where you are and what the next best topic is.
 
 ## Daily Repository Habit
 
@@ -27,6 +35,13 @@ Open `prompts/weekly_review.md` at the end of the week.
 3. save code in the right folder under `code/`
 4. commit with a clear message
 5. push to GitHub after the session
+
+## Useful Local Commands
+
+- `./scripts/start-day.sh`
+- `./scripts/start-day.sh 2026-05-12 20`
+- `./scripts/start-week.sh`
+- `./scripts/start-week.sh 20`
 
 ## Suggested Commit Style
 
