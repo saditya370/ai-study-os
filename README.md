@@ -17,6 +17,8 @@ It is designed to help with:
   - `roadmap/`: study roadmap and phase plans
   - `logs/daily/`: daily study logs
   - `logs/weekly/`: weekly reviews
+  - `radar/daily/`: one short daily trend note
+  - `radar/weekly/`: weekly radar summaries
   - `reports/`: milestone summaries and longer writeups
 - `prompts/`
   - reusable prompts for daily planning, reviews, and tutoring
@@ -33,14 +35,17 @@ It is designed to help with:
 2. Generate today's study plan
 3. Study and code in `code/`
 4. Save notes in `docs/logs/daily/`
-5. Run the reflection flow from `prompts/end_of_day.md`
-6. Update weekly status in `docs/logs/weekly/`
+5. Save one short trend note in `docs/radar/daily/`
+6. Run the reflection flow from `prompts/end_of_day.md`
+7. Update weekly status in `docs/logs/weekly/`
 
 ## First Files to Use
 
 - `docs/roadmap/master-roadmap.md`
 - `prompts/daily_start.md`
+- `prompts/daily_radar.md`
 - `prompts/end_of_day.md`
 - `templates/daily-log-template.md`
+- `templates/radar-note-template.md`
 - `templates/weekly-review-template.md`
 - `skills/ai-study-coach/SKILL.md`

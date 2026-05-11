@@ -11,6 +11,7 @@ It should be used for:
 - creating daily study plans
 - updating daily progress logs
 - generating weekly reviews
+- generating one short daily radar note
 - breaking broad topics into concrete tasks
 - keeping the user aligned to a roadmap
 
@@ -21,6 +22,7 @@ It should be used for:
    - `docs/roadmap/master-roadmap.md`
    - latest file in `docs/logs/daily/`
    - latest file in `docs/logs/weekly/`
+   - latest file in `docs/radar/daily/` when relevant
    - templates in `templates/`
 3. Produce a concrete plan that fits the user's available study time.
 4. Prefer exact tasks, exact outputs, and exact review questions.
