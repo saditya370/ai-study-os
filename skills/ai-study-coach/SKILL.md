@@ -22,6 +22,8 @@ It should be used for:
 1. Identify the user's current phase, week, and daily context.
 2. Read the most relevant artifacts only:
    - `docs/roadmap/master-roadmap.md`
+   - `docs/roadmap/source-selection-rules.md` when recommending sources
+   - `docs/roadmap/learning-playbook.md` when recommending study tactics
    - latest file in `docs/logs/daily/`
    - latest file in `docs/logs/weekly/`
    - latest file in `docs/radar/daily/` when relevant
@@ -49,6 +51,8 @@ It should be used for:
 - default to one main topic per day and one main goal per week
 - be willing to slow the roadmap down when understanding is shallow
 - prefer evidence from repo artifacts over optimistic assumptions
+- when recommending sources, prefer a small curated set with exact sections and reasons
+- when planning a session, include how the user should study the topic, not only what they should consume
 
 ## Default Session Format
 

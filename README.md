@@ -78,6 +78,8 @@ Keep the roadmap slow enough that you can still explain and implement what you s
 
 - `docs/roadmap/master-roadmap.md`
 - `docs/roadmap/ai-operated-workflow.md`
+- `docs/roadmap/source-selection-rules.md`
+- `docs/roadmap/learning-playbook.md`
 - `prompts/daily_start.md`
 - `prompts/study_os_operator.md`
 - `prompts/weekly_goal_planner.md`
@@ -100,6 +102,20 @@ Use this repo in "AI-operated" mode:
 5. study and code
 6. end with `prompts/end_of_day.md`
 7. ask for `prompts/progress_report.md` when you want a status review
+
+## If You Want Better Sources And Study Tactics
+
+The repo now has two support docs for this:
+
+- `docs/roadmap/source-selection-rules.md`: how the AI should choose readings, videos, and coding references
+- `docs/roadmap/learning-playbook.md`: how the AI should tell you to study the topic, not just what to study
+
+This is the intended behavior:
+
+- the AI picks a small number of high-signal sources
+- the AI tells you the exact section to use
+- the AI explains why each source is worth your time
+- the AI gives study tactics for watching, reading, note-taking, and coding
 
 ## What Good Usage Looks Like
 

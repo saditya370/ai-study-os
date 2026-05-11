@@ -6,6 +6,18 @@
 - Duration:
 - Goal:
 
+## Best Sources
+
+- Required:
+- Optional:
+
+## Learning Strategy
+
+- Intuition:
+- Math or formalism:
+- Implementation:
+- Active recall:
+
 ## Study Steps
 
 1.
