@@ -87,6 +87,7 @@ Keep the roadmap slow enough that you can still explain and implement what you s
 - `prompts/daily_radar.md`
 - `prompts/end_of_day.md`
 - `templates/daily-log-template.md`
+- `templates/paper-review-template.md`
 - `templates/radar-note-template.md`
 - `templates/weekly-review-template.md`
 - `skills/ai-study-coach/SKILL.md`
@@ -116,6 +117,13 @@ This is the intended behavior:
 - the AI tells you the exact section to use
 - the AI explains why each source is worth your time
 - the AI gives study tactics for watching, reading, note-taking, and coding
+
+## Paper Reading And Testing
+
+Keep both of these lightweight:
+
+- use `templates/paper-review-template.md` once you reach later phases such as transformers and LLM systems
+- for non-trivial work in `code/`, aim for `2 to 5` basic tests that verify mechanics and sanity, not everything
 
 ## What Good Usage Looks Like
 

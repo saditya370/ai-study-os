@@ -3,11 +3,11 @@
 Week Number: 20
 Theme: Supervised learning foundations through implementation
 Main Goal: Complete a Phase 1 fundamentals week that builds linear regression and logistic regression from scratch, with enough understanding to explain gradient descent, loss functions, and validation choices clearly.
-Status: Planned
+Status: In Progress
 
 ## Topics Finished
 
-- not completed yet
+- Day 1 completed: vectors, dot products, linear regression intuition, and a first gradient descent overview
 
 ## This Week's Daily Topics
 
@@ -22,6 +22,7 @@ Status: Planned
 ## Projects or Exercises Finished
 
 - weekly coding deliverable: create a small `code/` artifact that includes linear regression from scratch, logistic regression from scratch, and a short note on what gradient descent is doing in each case
+- completed artifact so far: `code/week20_day1_linear_prediction.py`
 
 ## Concepts I Can Explain Clearly
 
@@ -30,12 +31,14 @@ Status: Planned
 - target by end of week: how gradient descent updates parameters
 - target by end of week: why classification needs sigmoid plus log loss
 - target by end of week: why validation is required before moving forward
+- current progress: basic learning rate intuition and weighted-sum prediction
 
 ## Weak Areas
 
 - calculus for optimization, especially gradient intuition
 - probability and log-based loss intuition
 - separating training success from real generalization
+- feature vector intuition is still shaky and needs one more focused pass
 
 ## Review Needed
 
